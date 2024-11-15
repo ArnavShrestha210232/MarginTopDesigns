@@ -1,4 +1,4 @@
-#Sat Nov 16 00:56:26 NPT 2024
-base.0=/home/arnav/Documents/GitHub/Palanichowk/margintopdesigns/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+#Sat Nov 16 01:21:51 NPT 2024
+base.0=/home/arnav/Documents/GitHub/Palanichowk/MarginTopDesigns/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

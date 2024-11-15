@@ -4,10 +4,10 @@
     minSdkVersion="21"
     targetSdkVersion="34"
     shrinking="true"
-    mergedManifest="/home/arnav/Documents/GitHub/Palanichowk/margintopdesigns/build/app/intermediates/merged_manifest/release/AndroidManifest.xml"
-    manifestMergeReport="/home/arnav/Documents/GitHub/Palanichowk/margintopdesigns/build/app/outputs/logs/manifest-merger-release-report.txt"
-    proguardFiles="/home/arnav/Documents/GitHub/Palanichowk/margintopdesigns/build/app/intermediates/default_proguard_files/global/proguard-android.txt-8.1.0:/home/arnav/snap/flutter/common/flutter/packages/flutter_tools/gradle/flutter_proguard_rules.pro:proguard-rules.pro"
-    partialResultsDir="/home/arnav/Documents/GitHub/Palanichowk/margintopdesigns/build/app/intermediates/lint_vital_partial_results/release/out">
+    mergedManifest="/home/arnav/Documents/GitHub/Palanichowk/MarginTopDesigns/build/app/intermediates/merged_manifest/release/AndroidManifest.xml"
+    manifestMergeReport="/home/arnav/Documents/GitHub/Palanichowk/MarginTopDesigns/build/app/outputs/logs/manifest-merger-release-report.txt"
+    proguardFiles="/home/arnav/Documents/GitHub/Palanichowk/MarginTopDesigns/build/app/intermediates/default_proguard_files/global/proguard-android.txt-8.1.0:/home/arnav/snap/flutter/common/flutter/packages/flutter_tools/gradle/flutter_proguard_rules.pro:proguard-rules.pro"
+    partialResultsDir="/home/arnav/Documents/GitHub/Palanichowk/MarginTopDesigns/build/app/intermediates/lint_vital_partial_results/release/out">
   <buildFeatures
       namespacing="REQUIRED"/>
   <sourceProviders>
@@ -27,10 +27,10 @@
         value="android.app.Application" />
   </manifestPlaceholders>
   <mainArtifact
-      classOutputs="/home/arnav/Documents/GitHub/Palanichowk/margintopdesigns/build/app/intermediates/javac/release/classes:/home/arnav/Documents/GitHub/Palanichowk/margintopdesigns/build/app/tmp/kotlin-classes/release:/home/arnav/Documents/GitHub/Palanichowk/margintopdesigns/build/app/kotlinToolingMetadata:/home/arnav/Documents/GitHub/Palanichowk/margintopdesigns/build/app/intermediates/compile_and_runtime_not_namespaced_r_class_jar/release/R.jar"
+      classOutputs="/home/arnav/Documents/GitHub/Palanichowk/MarginTopDesigns/build/app/intermediates/javac/release/classes:/home/arnav/Documents/GitHub/Palanichowk/MarginTopDesigns/build/app/tmp/kotlin-classes/release:/home/arnav/Documents/GitHub/Palanichowk/MarginTopDesigns/build/app/kotlinToolingMetadata:/home/arnav/Documents/GitHub/Palanichowk/MarginTopDesigns/build/app/intermediates/compile_and_runtime_not_namespaced_r_class_jar/release/R.jar"
       applicationId="com.example.margintopdesigns"
-      generatedSourceFolders="/home/arnav/Documents/GitHub/Palanichowk/margintopdesigns/build/app/generated/ap_generated_sources/release/out"
-      generatedResourceFolders="/home/arnav/Documents/GitHub/Palanichowk/margintopdesigns/build/app/generated/res/resValues/release"
+      generatedSourceFolders="/home/arnav/Documents/GitHub/Palanichowk/MarginTopDesigns/build/app/generated/ap_generated_sources/release/out"
+      generatedResourceFolders="/home/arnav/Documents/GitHub/Palanichowk/MarginTopDesigns/build/app/generated/res/resValues/release"
       desugaredMethodsFiles="/home/arnav/.gradle/caches/transforms-3/65c0c5e1a46dd2074f619deb01dcd57d/transformed/D8BackportedDesugaredMethods.txt">
   </mainArtifact>
 </variant>

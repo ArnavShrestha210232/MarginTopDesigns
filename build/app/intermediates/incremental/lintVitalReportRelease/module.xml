@@ -1,11 +1,11 @@
 <lint-module
     format="1"
-    dir="/home/arnav/Documents/GitHub/Palanichowk/margintopdesigns/android/app"
+    dir="/home/arnav/Documents/GitHub/Palanichowk/MarginTopDesigns/android/app"
     name=":app"
     type="APP"
     maven="android:app:"
     agpVersion="8.1.0"
-    buildFolder="/home/arnav/Documents/GitHub/Palanichowk/margintopdesigns/build/app"
+    buildFolder="/home/arnav/Documents/GitHub/Palanichowk/MarginTopDesigns/build/app"
     bootClassPath="/home/arnav/Android/Sdk/platforms/android-34/android.jar:/home/arnav/Android/Sdk/build-tools/33.0.1/core-lambda-stubs.jar"
     javaSourceLevel="1.8"
     compileTarget="android-34">

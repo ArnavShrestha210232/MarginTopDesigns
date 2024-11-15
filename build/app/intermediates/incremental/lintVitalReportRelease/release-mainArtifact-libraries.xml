@@ -1,8 +1,8 @@
 <libraries>
   <library
-      name="__local_aars__:/home/arnav/Documents/GitHub/Palanichowk/margintopdesigns/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
-      jars="/home/arnav/Documents/GitHub/Palanichowk/margintopdesigns/build/app/intermediates/flutter/release/libs.jar"
-      resolved="__local_aars__:/home/arnav/Documents/GitHub/Palanichowk/margintopdesigns/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
+      name="__local_aars__:/home/arnav/Documents/GitHub/Palanichowk/MarginTopDesigns/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
+      jars="/home/arnav/Documents/GitHub/Palanichowk/MarginTopDesigns/build/app/intermediates/flutter/release/libs.jar"
+      resolved="__local_aars__:/home/arnav/Documents/GitHub/Palanichowk/MarginTopDesigns/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
   <library
       name="io.flutter:flutter_embedding_release:1.0.0-36335019a8eab588c3c2ea783c618d90505be233@jar"
       jars="/home/arnav/.gradle/caches/modules-2/files-2.1/io.flutter/flutter_embedding_release/1.0.0-36335019a8eab588c3c2ea783c618d90505be233/28bfbfaa463acde1b8146ab5ad96c7eff77ebd97/flutter_embedding_release-1.0.0-36335019a8eab588c3c2ea783c618d90505be233.jar"

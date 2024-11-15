@@ -470,7 +470,7 @@
             "outputFile": "com.example.margintopdesigns.app-merged_res-27:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "/home/arnav/Documents/GitHub/Palanichowk/margintopdesigns/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/home/arnav/Documents/GitHub/Palanichowk/MarginTopDesigns/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -1263,7 +1263,7 @@
                     }
                 },
                 {
-                    "source": "/home/arnav/Documents/GitHub/Palanichowk/margintopdesigns/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/arnav/Documents/GitHub/Palanichowk/MarginTopDesigns/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
